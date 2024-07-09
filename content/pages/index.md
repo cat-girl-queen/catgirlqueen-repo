@@ -44,6 +44,9 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
+    text: >
+      she/they, 24, transfem, a princess, a puppycat, a catgirl queen, and the
+      girl with the blank expression who will ruin your life
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
