@@ -17,15 +17,7 @@
                 "iconPosition": "left"
             }
         ],
-        "socialLinks": [
-            {
-                "type": "Social",
-                "altText": "my blogging",
-                "label": "Mastodon",
-                "url": "https://snaggletooth.life/@ct-grl-qn",
-                "icon": "twitter"
-            }
-        ],
+        "socialLinks": [],
         "styles": {
             "self": {
                 "width": "full"
