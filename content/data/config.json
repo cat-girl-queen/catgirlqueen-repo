@@ -27,7 +27,7 @@
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "my video",
+                "altText": "my videos",
                 "label": "YouTube",
                 "url": "https://twitter.com/netlify",
                 "icon": "youtube"
