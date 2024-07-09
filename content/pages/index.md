@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Sparkles
-    subtitle: 'a.k.a. dumb puppycat, gremlin princess, or catgirl queen'
+    subtitle: the dumb puppycat & gremlin princess
     styles:
       self:
         height: auto
