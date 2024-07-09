@@ -21,7 +21,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/ct-grl-qn-logo.JPG
-      altText: Hero image
+      altText: picture of cat
     styles:
       self:
         height: auto
