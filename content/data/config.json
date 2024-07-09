@@ -15,11 +15,6 @@
                 "showIcon": true,
                 "icon": "chevronRight",
                 "iconPosition": "left"
-            },
-            {
-                "type": "Link",
-                "label": "Projects",
-                "url": "/projects"
             }
         ],
         "socialLinks": [
