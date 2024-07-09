@@ -18,10 +18,10 @@ sections:
 
 
       i like to make music, play video games on my computer, crush on fictional
-      characters, and be myself around cool people :)
+      characters, and be myself around cool people c:
 
 
-      bigots dni
+      Mastodon - snaggletooth.life/@ct\_grl\_qn
     media:
       type: ImageBlock
       url: /images/ct-grl-qn-logo.JPG
