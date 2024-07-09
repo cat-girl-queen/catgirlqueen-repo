@@ -13,11 +13,15 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: |+
+    text: >
       ## hi i am a cat on the internet :3
 
-      if you have questions you can ask c:
 
+      i like to make music, play video games on my computer, crush on fictional
+      characters, and be myself around cool people :)
+
+
+      bigots dni
     media:
       type: ImageBlock
       url: /images/ct-grl-qn-logo.JPG
