@@ -14,7 +14,9 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Sparkles the Puppycat
-    subtitle: she/they
+    subtitle: >-
+      she/they, 24, transfem, a princess, a puppycat, a catgirl queen, and the
+      girl with the blank expression who will ruin your life
     styles:
       self:
         height: auto
