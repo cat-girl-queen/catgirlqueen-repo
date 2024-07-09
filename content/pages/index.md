@@ -42,6 +42,7 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-    text: |
-      i'm the transfemme girl with the blank expression who will ruin your life
+    text: >
+      a.k.a. the transfemme girl with the blank expression who will ruin your
+      life
 ---
