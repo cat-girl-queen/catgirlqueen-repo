@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: Sparkles the Puppycat
+    title: Sparkles
     subtitle: 'a.k.a. dumb puppycat, or catgirl queen'
     styles:
       self:
