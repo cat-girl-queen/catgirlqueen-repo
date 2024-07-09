@@ -50,7 +50,6 @@
         },
         "logo": {
             "type": "ImageBlock",
-            "url": "/images/ct-grl-qn-logo.JPG",
             "altText": "altText of the image",
             "caption": "Caption of the image",
             "elementId": ""
