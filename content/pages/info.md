@@ -20,7 +20,7 @@ sections:
 
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/ct-grl-qn-logo.JPG
       altText: Hero image
     styles:
       self:
