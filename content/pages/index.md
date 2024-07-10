@@ -121,7 +121,7 @@ sections:
         label: OnlyFans
         url: 'https://onlyfans.com/ct_grl_qn'
       - type: Label
-        label: Microsoft Office
+        label: Telegram
         url: ''
       - type: Label
         label: Next.js
