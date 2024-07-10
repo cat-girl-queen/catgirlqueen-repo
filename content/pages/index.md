@@ -112,7 +112,7 @@ sections:
     subtitle: a.k.a. where else on the internet to find me
   - type: LabelsSection
     title: directory
-    subtitle: The section subtitle
+    subtitle: a.k.a. where else on the internet to find me
     items:
       - type: Label
         label: Mastodon
