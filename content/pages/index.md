@@ -125,7 +125,7 @@ sections:
         url: 'https://t.me/ct_grl_qn'
       - type: Label
         label: Throne
-        url: ''
+        url: 'https://throne.com/ct_grl_qn'
       - type: Label
         label: Netlify
         url: ''
