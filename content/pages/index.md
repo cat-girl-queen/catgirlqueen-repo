@@ -86,8 +86,11 @@ sections:
     title: directory
     text: |
       [Mastodon](https://snaggletooth.life/@ct_grl_qn)
+
       [OnlyFans](https://onlyfans.com/ct-grl-qn)
+
       [Telegram](https://t.me/ct_grl_qn)
+
       [Throne](https://throne.com/ct_grl_qn)
     elementId: ''
     styles:
