@@ -122,7 +122,7 @@ sections:
         url: 'https://onlyfans.com/ct_grl_qn'
       - type: Label
         label: Telegram
-        url: ''
+        url: 'https://t.me/ct_grl_qn'
       - type: Label
         label: Next.js
         url: ''
