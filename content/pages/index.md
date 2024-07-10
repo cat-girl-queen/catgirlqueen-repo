@@ -119,7 +119,7 @@ sections:
         url: 'https://snaggletooth.life/@ct_grl_qn'
       - type: Label
         label: OnlyFans
-        url: 'https://onlyfans.com/ct_grl_qn'
+        url: 'https://onlyfans.com/ct-grl-qn'
       - type: Label
         label: Telegram
         url: 'https://t.me/ct_grl_qn'
