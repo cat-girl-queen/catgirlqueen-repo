@@ -59,7 +59,7 @@ sections:
   - type: TextSection
     colors: colors-f
     variant: variant-a
-    title: Where you can find me
+    title: Directory
     text: >-
       #### [Mastodon](https://snaggletooth.life/@ct_grl_qn) —
       [OnlyFans](https://onlyfans.com/ct-grl-qn) —
