@@ -75,7 +75,7 @@ sections:
       #### compliments
 
 
-      pretty, cute, hot
+      ***pretty, cute, hot***
   - type: DividerSection
     title: Divider
     elementId: ''
