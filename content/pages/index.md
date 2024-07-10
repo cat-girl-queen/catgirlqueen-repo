@@ -61,17 +61,19 @@ sections:
     variant: variant-a
     title: Where you can find me
     text: |
-      Mastodon
-      https\://snaggletooth.life/@ct\_grl\_qn
+      ## Mastodon
+
+      <https://snaggletooth.life/@ct_grl_qn>
 
       OnlyFans
-      https\://onlyfans.com/ct-grl-qn
+      <https://onlyfans.com/ct-grl-qn>
+      --------------------------------
 
       Telegram
-      https\://t.me/ct\_grl\_qn
+      <https://t.me/ct_grl_qn>
 
       Throne
-      https\://throne.com/ct\_grl\_qn
+      <https://throne.com/ct_grl_qn>
     elementId: ''
     styles:
       self:
