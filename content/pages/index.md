@@ -61,7 +61,7 @@ sections:
     variant: variant-a
     title: Where you can find me
     text: |
-      # [Mastodon](https://snaggletooth.life/@ct_grl_qn)
+      ### [Mastodon](https://snaggletooth.life/@ct_grl_qn)
 
       [OnlyFans
       https://onlyfans.com/ct-grl-qn](https://snaggletooth.life/@ct_grl_qn)
