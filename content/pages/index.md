@@ -127,9 +127,6 @@ sections:
         label: Throne
         url: 'https://throne.com/ct_grl_qn'
       - type: Label
-        label: C++
-        url: ''
-      - type: Label
         label: Swift
         url: ''
     colors: colors-f
