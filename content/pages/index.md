@@ -58,7 +58,7 @@ sections:
         borderWidth: 1
   - type: TextSection
     colors: colors-f
-    variant: variant-a
+    variant: variant-b
     title: Where you can find me
     text: |
       #### [Mastodon](https://snaggletooth.life/@ct_grl_qn)
