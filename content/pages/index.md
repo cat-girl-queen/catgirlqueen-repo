@@ -124,7 +124,7 @@ sections:
         label: Telegram
         url: 'https://t.me/ct_grl_qn'
       - type: Label
-        label: Next.js
+        label: Throne
         url: ''
       - type: Label
         label: Netlify
