@@ -127,9 +127,6 @@ sections:
         label: Throne
         url: 'https://throne.com/ct_grl_qn'
       - type: Label
-        label: Netlify
-        url: ''
-      - type: Label
         label: Pancakes
         url: ''
       - type: Label
