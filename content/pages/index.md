@@ -56,7 +56,19 @@ sections:
       #### titles
 
 
-      miss, ma'am, madam, mommy, princess - for when i'm feeling dominant
+      cat, dog, girl, woman - anyone can call me these at any time
+
+
+      pup, kit, kitty, princess - call me these affectionately, but i reserve
+      the right to say "don't call me that"
+
+
+      miss, ma'am, madam, mommy, princess - for when i'm feeling dominant, or
+      for anyone who wants to worship me
+
+
+      lady, dude, bro, sis, any queer slurs - for my friends and partners...
+      you'll know when you can call me these <3
   - type: DividerSection
     title: Divider
     elementId: ''
