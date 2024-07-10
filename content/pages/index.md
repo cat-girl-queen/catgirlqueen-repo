@@ -60,13 +60,18 @@ sections:
     colors: colors-f
     variant: variant-a
     title: Where you can find me
-    text: |+
+    text: |
+      Mastodon
+      https\://snaggletooth.life/@ct\_grl\_qn
 
+      OnlyFans
+      https\://onlyfans.com/ct-grl-qn
 
-      |   |   |
-      | - | - |
-      |   |   |
+      Telegram
+      https\://t.me/ct\_grl\_qn
 
+      Throne
+      https\://throne.com/ct\_grl\_qn
     elementId: ''
     styles:
       self:
