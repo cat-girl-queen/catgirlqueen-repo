@@ -119,7 +119,7 @@ sections:
         url: 'https://snaggletooth.life/@ct_grl_qn'
       - type: Label
         label: OnlyFans
-        url: ''
+        url: 'https://onlyfans.com/ct_grl_qn'
       - type: Label
         label: Microsoft Office
         url: ''
