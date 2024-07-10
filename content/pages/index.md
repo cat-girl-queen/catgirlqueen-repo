@@ -118,7 +118,7 @@ sections:
         label: Mastodon
         url: 'https://snaggletooth.life/@ct_grl_qn'
       - type: Label
-        label: React
+        label: OnlyFans
         url: ''
       - type: Label
         label: Microsoft Office
