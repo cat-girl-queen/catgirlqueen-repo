@@ -45,6 +45,12 @@ sections:
     text: >
       a.k.a. the transfemme girl with the blank expression who will ruin your
       life
+
+
+      #### pronouns
+
+
+      she/her - they/them - it/its
   - type: DividerSection
     title: Divider
     elementId: ''
