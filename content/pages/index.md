@@ -63,15 +63,11 @@ sections:
     text: |
       ### [Mastodon](https://snaggletooth.life/@ct_grl_qn)
 
-      [OnlyFans
-      https://onlyfans.com/ct-grl-qn](https://snaggletooth.life/@ct_grl_qn)
-      ---------------------------------------------------------------------
+      ### [OnlyFans](https://onlyfans.com/ct-grl-qn)
 
-      [Telegram
-      https://t.me/ct\_grl\_qn](https://snaggletooth.life/@ct_grl_qn)
+      ### [Telegram](https://t.me/ct\_grl\_qn)
 
-      [Throne
-      https://throne.com/ct\_grl\_qn](https://snaggletooth.life/@ct_grl_qn)
+      ### [Throne](https://throne.com/ct\_grl\_qn)
     elementId: ''
     styles:
       self:
