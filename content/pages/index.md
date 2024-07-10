@@ -80,36 +80,6 @@ sections:
           - pb-5
         justifyContent: center
         borderWidth: 1
-  - type: TextSection
-    colors: colors-f
-    variant: variant-a
-    title: directory
-    text: |
-      [Mastodon](https://snaggletooth.life/@ct_grl_qn)
-
-      [OnlyFans](https://onlyfans.com/ct-grl-qn)
-
-      [Telegram](https://t.me/ct_grl_qn)
-
-      [Throne](https://throne.com/ct_grl_qn)
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-0
-          - pb-28
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-    subtitle: a.k.a. where else on the internet to find me
   - type: LabelsSection
     title: directory
     subtitle: a.k.a. where else on the internet to find me
