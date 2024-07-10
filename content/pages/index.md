@@ -111,7 +111,7 @@ sections:
         textAlign: left
     subtitle: a.k.a. where else on the internet to find me
   - type: LabelsSection
-    title: Skills
+    title: directory
     subtitle: The section subtitle
     items:
       - type: Label
