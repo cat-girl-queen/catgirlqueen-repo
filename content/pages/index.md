@@ -116,7 +116,7 @@ sections:
     items:
       - type: Label
         label: Mastodon
-        url: ''
+        url: 'https://snaggletooth.life/@ct_grl_qn'
       - type: Label
         label: React
         url: ''
